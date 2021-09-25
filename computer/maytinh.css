@@ -1,0 +1,25 @@
+.maytinh1{
+    background-color: chartreuse;
+    text-align: center;
+    width:600px;
+    height:800px;
+    border: 2px solid black;
+}
+*{
+    margin: 0 auto ;
+    padding: 0 auto;
+    box-sizing: border-box;
+}
+#answer{
+    height : 100px;
+    border-bottom:  3px solid #eaefea;
+    width:100%;
+}
+
+.maytinh1 h3{
+    color:red;
+    text-align:center;
+    font-size:30px;
+    border-bottom:  3px solid #eaefea;
+    padding: 31px 0px 31px 0px; 
+}
