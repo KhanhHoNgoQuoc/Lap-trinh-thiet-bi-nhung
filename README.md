@@ -10,3 +10,6 @@ https://www.tinkercad.com/things/jv8FQ4YIAJJ
 
 BÀI 3:Cảm biến nhiệt độ
 https://www.tinkercad.com/things/7IppRiSMEqc
+
+Bài 3.2:Đèn led RGB
+https://www.tinkercad.com/things/iPOh76Dym6R
